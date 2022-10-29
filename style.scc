@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://daiki-oshima.github.io/2021-dopf/css/style.css" />
 div.is-hidden {
     display: none;
 }
